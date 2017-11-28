@@ -1,0 +1,8 @@
+{
+  "name": "vue-comment-zone",
+  "description": "Simple comment system Vue.js components",
+  "version": "0.1.0",
+  "main": "src/components/CommentZone.vue",
+  "author": "neemzy <tom.panier@free.fr>",
+  "license": "UNLICENSED"
+}
